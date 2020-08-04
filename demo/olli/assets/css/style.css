@@ -2092,7 +2092,6 @@ a:hover, a:focus, a:active, a:hover:active {
   width: 100%;
   height: 30rem;
   background-color: #e9eced;
-  background: url(../images/video.jpg) center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2143,7 +2142,6 @@ a:hover, a:focus, a:active, a:hover:active {
 }
 
 .video-mobile-screen {
-  background: url(../images/video.jpg) center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2553,7 +2551,7 @@ a:hover, a:focus, a:active, a:hover:active {
   right: 0;
   width: 50%;
   height: 100%;
-  background: url(../images/footer.jpg) center no-repeat;
+  background: url(../images/AdobeStock_282450892.jpeg) center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2972,4 +2970,14 @@ a:hover, a:focus, a:active, a:hover:active {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.order-form-content a,.order-form-content  p,.order-form-content  h3{
+  color: #fff;
+  text-align: center;
+}
+.order-form-content a{
+  font-weight: bold;
+}
+.order-form-content  h3{
+margin-bottom: 20px;
 }
